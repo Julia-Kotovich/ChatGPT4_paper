@@ -1,1 +1,1 @@
-# ChatGPT4_paper
+# ChatGPT_paper
