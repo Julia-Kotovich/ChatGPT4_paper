@@ -1,0 +1,14 @@
+Dependency metrics,Mon, 12 Jun 2023 16:08:01 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Fan,0,1,1,1,1,1,1
+main.java.Light,0,1,1,1,1,1,1
+main.java.MediatorPatternDemo,0,5,5,0,0,1,0
+main.java.SmartHomeControlMediator,0,2,2,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Appliance,0,0,0,5,5,0,1
+main.java.ControlMediator,0,1,1,2,2,1,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+

@@ -1,0 +1,38 @@
+Lines of code metrics,Mon, 12 Jun 2023 09:32:14 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Appliance.getState(),0,n/a,n/a,1,20.00%
+main.java.Appliance.turnOff(),0,n/a,n/a,1,20.00%
+main.java.Appliance.turnOn(),0,n/a,n/a,1,20.00%
+"main.java.Control.followCommand(String, Appliance)",0,n/a,n/a,1,33.33%
+main.java.Fan.getState(),0,0,3,3,21.43%
+main.java.Fan.turnOff(),0,0,4,4,28.57%
+main.java.Fan.turnOn(),0,0,4,4,28.57%
+main.java.Light.getState(),0,0,3,3,21.43%
+main.java.Light.turnOff(),0,0,4,4,28.57%
+main.java.Light.turnOn(),0,0,4,4,28.57%
+"main.java.SmartHomeControl.followCommand(String, Appliance)",0,0,8,8,72.73%
+
+Class,CLOC,JLOC,LOC
+main.java.Fan,0,0,14
+main.java.Light,0,0,14
+main.java.SmartHomeControl,0,0,11
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.Appliance,0,0,5,5
+main.java.Control,0,0,3,3
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,n/a,n/a,n/a,n/a,54,n/a,54,n/a,0,n/a,n/a,54,n/a
+main,n/a,n/a,n/a,n/a,n/a,54,n/a,54,n/a,0,n/a,n/a,54,n/a
+main.java,0,0,0,0,54,54,54,54,0,0,54,54,54,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_GhostWriter01,0,0,0,0,54,0,0,0,0,79,54,0,79,54,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,54,54
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,0,0,0,0,0,54,0,0,0,0,79,54,0,79,54,0
+

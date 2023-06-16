@@ -1,0 +1,47 @@
+Lines of code metrics,Mon, 12 Jun 2023 13:37:52 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Appliance.getState(),0,n/a,n/a,1,20.00%
+main.java.Appliance.turnOff(),0,n/a,n/a,1,20.00%
+main.java.Appliance.turnOn(),0,n/a,n/a,1,20.00%
+main.java.Control.getState(),0,n/a,n/a,1,16.67%
+main.java.Control.setAppliance(Appliance),0,n/a,n/a,1,16.67%
+main.java.Control.turnOff(),0,n/a,n/a,1,16.67%
+main.java.Control.turnOn(),0,n/a,n/a,1,16.67%
+main.java.Fan.getState(),0,0,3,3,21.43%
+main.java.Fan.turnOff(),0,0,4,4,28.57%
+main.java.Fan.turnOn(),0,0,4,4,28.57%
+main.java.Light.getState(),0,0,3,3,21.43%
+main.java.Light.turnOff(),0,0,4,4,28.57%
+main.java.Light.turnOn(),0,0,4,4,28.57%
+main.java.Mediator.addControl(Control),0,0,3,3,23.08%
+"main.java.Mediator.followCommand(String, Control)",0,0,7,7,53.85%
+main.java.SmartHomeControl.getState(),0,0,3,3,20.00%
+main.java.SmartHomeControl.setAppliance(Appliance),0,0,3,3,20.00%
+main.java.SmartHomeControl.turnOff(),0,0,3,3,20.00%
+main.java.SmartHomeControl.turnOn(),0,0,3,3,20.00%
+
+Class,CLOC,JLOC,LOC
+main.java.Fan,0,0,14
+main.java.Light,0,0,14
+main.java.Mediator,0,0,13
+main.java.SmartHomeControl,0,0,15
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.Appliance,0,0,5,5
+main.java.Control,0,0,6,6
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,n/a,n/a,n/a,n/a,73,n/a,73,n/a,0,n/a,n/a,73,n/a
+main,n/a,n/a,n/a,n/a,n/a,73,n/a,73,n/a,0,n/a,n/a,73,n/a
+main.java,0,0,0,0,73,73,73,73,0,0,73,73,73,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_GhostWriter02,0,0,0,0,73,0,0,0,0,98,73,0,98,73,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,73,73
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,0,0,0,0,0,73,0,0,0,0,98,73,0,98,73,0
+

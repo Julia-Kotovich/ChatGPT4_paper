@@ -1,0 +1,32 @@
+Lines of code metrics,Mon, 12 Jun 2023 10:22:31 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Appliance.getState(),0,0,3,3,42.86%
+main.java.Appliance.togglePower(),0,n/a,n/a,1,14.29%
+main.java.ApplianceFactory.createAppliance(ApplianceType),0,0,10,10,83.33%
+main.java.Fan.togglePower(),0,0,9,9,81.82%
+main.java.Light.togglePower(),0,0,9,9,81.82%
+"main.java.SmartHomeControl.followCommand(ApplianceType, String)",0,0,10,10,83.33%
+
+Class,CLOC,JLOC,LOC
+main.java.Appliance,0,0,7
+main.java.ApplianceFactory,0,0,12
+main.java.ApplianceType,0,0,4
+main.java.Fan,0,0,11
+main.java.Light,0,0,11
+main.java.SmartHomeControl,0,0,12
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,n/a,n/a,n/a,n/a,63,n/a,63,n/a,0,n/a,n/a,63,n/a
+main,n/a,n/a,n/a,n/a,n/a,63,n/a,63,n/a,0,n/a,n/a,63,n/a
+main.java,0,0,0,0,63,63,63,63,0,0,63,63,63,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_GhostWriter01_Refactor,0,0,0,0,63,0,0,0,0,88,63,0,88,63,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,63,63
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,0,0,0,0,0,63,0,0,0,0,88,63,0,88,63,0
+

@@ -1,0 +1,11 @@
+Number of files metrics,Mon, 12 Jun 2023 09:34:14 CEST
+Module,CSS,FILES,Groovy,HTML,J,JS,JSP,KT,XML
+Mediator_GhostWriter01,0,6,0,0,5,0,0,0,0
+
+FileType,FILES
+.gitignore (GitIgnore),1
+Java,5
+
+Project,CSS,FILES,Groovy,HTML,J,JS,JSP,KT,MOD,XML
+project,0,6,0,0,5,0,0,0,1,0
+

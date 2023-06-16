@@ -1,0 +1,12 @@
+Class count metrics,Mon, 12 Jun 2023 10:17:33 CEST
+Package,C,C(rec),Cp,Cp(rec),Ct,TC(rec)
+,n/a,6,n/a,6,n/a,0
+main,n/a,6,n/a,6,n/a,0
+main.java,6,6,6,6,0,0
+
+Module,C,Cp,Ct
+Mediator_GhostWriter01_Refactor,6,6,0
+
+Project,C,Cp,Ct
+project,6,6,0
+
