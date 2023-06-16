@@ -1,0 +1,9 @@
+Chidamber-Kemerer metrics,Wed, 31 May 2023 23:18:36 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.Light,3,1,1,0,7,5
+main.java.Main,5,1,1,0,8,1
+main.java.SmartHomeAppliance,n/a,n/a,n/a,n/a,2,n/a
+main.java.SmartHomeMediator,n/a,n/a,n/a,n/a,2,n/a
+main.java.SmartHomeMediatorImpl,3,1,1,0,6,5
+main.java.Thermostat,3,1,1,0,6,4
+

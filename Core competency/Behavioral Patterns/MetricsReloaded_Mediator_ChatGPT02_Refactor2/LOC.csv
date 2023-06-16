@@ -1,0 +1,45 @@
+Lines of code metrics,Wed, 31 May 2023 23:23:59 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Light.Light(SmartHomeMediator),0,0,3,3,13.04%
+main.java.Light.receiveMessage(String),0,0,4,4,17.39%
+main.java.Light.sendMessage(String),0,0,4,4,17.39%
+main.java.Light.turnOff(),0,0,4,4,17.39%
+main.java.Light.turnOn(),0,0,4,4,17.39%
+main.java.Main.main(String[]),0,0,12,12,80.00%
+main.java.SmartHomeAppliance.receiveMessage(String),0,n/a,n/a,1,20.00%
+main.java.SmartHomeAppliance.sendMessage(String),0,n/a,n/a,1,20.00%
+main.java.SmartHomeMediator.addAppliance(SmartHomeAppliance),0,n/a,n/a,1,20.00%
+"main.java.SmartHomeMediator.sendMessage(String, SmartHomeAppliance)",0,n/a,n/a,1,20.00%
+main.java.SmartHomeMediatorImpl.SmartHomeMediatorImpl(),0,0,3,3,15.00%
+main.java.SmartHomeMediatorImpl.addAppliance(SmartHomeAppliance),0,0,4,4,20.00%
+"main.java.SmartHomeMediatorImpl.sendMessage(String, SmartHomeAppliance)",1,0,9,8,45.00%
+main.java.Thermostat.Thermostat(SmartHomeMediator),0,0,3,3,16.67%
+main.java.Thermostat.receiveMessage(String),0,0,4,4,22.22%
+main.java.Thermostat.sendMessage(String),0,0,4,4,22.22%
+main.java.Thermostat.setTemperature(int),0,0,4,4,22.22%
+
+Class,CLOC,JLOC,LOC
+main.java.Light,1,0,23
+main.java.Main,1,0,15
+main.java.SmartHomeMediatorImpl,2,0,20
+main.java.Thermostat,0,0,18
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.SmartHomeAppliance,1,0,5,4
+main.java.SmartHomeMediator,1,0,5,4
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,6,n/a,n/a,n/a,94,n/a,94,n/a,0,n/a,n/a,88,n/a
+main,n/a,6,n/a,n/a,n/a,94,n/a,94,n/a,0,n/a,n/a,88,n/a
+main.java,0,6,0,0,94,94,94,94,0,0,88,88,88,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_ChatGPT02_Refactor2,0,0,0,0,94,0,0,0,0,119,94,0,113,88,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,94,88
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,6,0,0,0,0,94,0,0,0,0,119,94,0,113,88,0
+

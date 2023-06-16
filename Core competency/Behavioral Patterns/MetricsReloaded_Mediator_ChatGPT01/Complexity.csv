@@ -1,0 +1,32 @@
+Complexity metrics,Wed, 31 May 2023 11:10:42 CEST
+Method,CogC,ev(G),iv(G),v(G)
+main.java.Appliance.Appliance(Mediator),0,1,1,1
+main.java.Appliance.sendMessage(String),0,1,1,1
+main.java.Light.Light(Mediator),0,1,1,1
+main.java.Light.receiveMessage(String),0,1,1,1
+main.java.Main.main(String[]),0,1,1,1
+main.java.SecuritySystem.SecuritySystem(Mediator),0,1,1,1
+main.java.SecuritySystem.receiveMessage(String),0,1,1,1
+main.java.SmartHomeMediator.SmartHomeMediator(),0,1,1,1
+main.java.SmartHomeMediator.registerAppliance(Appliance),0,1,1,1
+"main.java.SmartHomeMediator.sendMessage(Appliance, String)",3,1,3,3
+main.java.Thermostat.Thermostat(Mediator),0,1,1,1
+main.java.Thermostat.receiveMessage(String),0,1,1,1
+
+Class,OCavg,OCmax,WMC
+main.java.Appliance,1.00,1,2
+main.java.Light,1.00,1,2
+main.java.Main,1.00,1,1
+main.java.SecuritySystem,1.00,1,2
+main.java.SmartHomeMediator,1.67,3,5
+main.java.Thermostat,1.00,1,2
+
+Package,v(G)avg,v(G)tot
+main.java,1.17,14
+
+Module,v(G)avg,v(G)tot
+Mediator_ChatGPT01,1.17,14
+
+Project,v(G)avg,v(G)tot
+project,1.17,14
+

@@ -1,0 +1,41 @@
+Lines of code metrics,Thu, 1 Jun 2023 09:49:31 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+"main.java.LightBulb.LightBulb(SmartHomeMediator, String)",0,0,4,4,22.22%
+main.java.LightBulb.receiveMessage(String),0,0,4,4,22.22%
+main.java.LightBulb.sendMessage(String),0,0,5,5,27.78%
+main.java.Main.main(String[]),4,0,16,12,84.21%
+main.java.SmartHomeAppliance.receiveMessage(String),0,n/a,n/a,1,20.00%
+main.java.SmartHomeAppliance.sendMessage(String),0,n/a,n/a,1,20.00%
+main.java.SmartHomeHub.SmartHomeHub(),0,0,3,3,16.67%
+main.java.SmartHomeHub.addAppliance(SmartHomeAppliance),0,0,3,3,16.67%
+"main.java.SmartHomeHub.sendMessage(String, SmartHomeAppliance)",0,0,8,8,44.44%
+"main.java.SmartHomeMediator.sendMessage(String, SmartHomeAppliance)",0,n/a,n/a,1,25.00%
+"main.java.Thermostat.Thermostat(SmartHomeMediator, String)",0,0,4,4,22.22%
+main.java.Thermostat.receiveMessage(String),0,0,4,4,22.22%
+main.java.Thermostat.sendMessage(String),0,0,5,5,27.78%
+
+Class,CLOC,JLOC,LOC
+main.java.LightBulb,1,0,18
+main.java.Main,5,0,19
+main.java.SmartHomeHub,1,0,18
+main.java.Thermostat,1,0,18
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.SmartHomeAppliance,1,0,5,4
+main.java.SmartHomeMediator,1,0,4,3
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,10,n/a,n/a,n/a,90,n/a,90,n/a,0,n/a,n/a,80,n/a
+main,n/a,10,n/a,n/a,n/a,90,n/a,90,n/a,0,n/a,n/a,80,n/a
+main.java,0,10,0,0,90,90,90,90,0,0,80,80,80,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_ChatGPT03,0,0,0,0,90,0,0,0,0,115,90,0,105,80,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,90,80
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,10,0,0,0,0,90,0,0,0,0,115,90,0,105,80,0
+

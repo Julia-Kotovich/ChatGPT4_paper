@@ -1,0 +1,44 @@
+Lines of code metrics,Wed, 31 May 2023 11:13:02 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Appliance.Appliance(Mediator),0,0,3,3,27.27%
+main.java.Appliance.receiveMessage(String),0,n/a,n/a,1,9.09%
+main.java.Appliance.sendMessage(String),0,0,3,3,27.27%
+main.java.Light.Light(Mediator),0,0,3,3,30.00%
+main.java.Light.receiveMessage(String),0,0,4,4,40.00%
+main.java.Main.main(String[]),6,0,18,12,85.71%
+main.java.Mediator.registerAppliance(Appliance),0,n/a,n/a,1,20.00%
+"main.java.Mediator.sendMessage(Appliance, String)",0,n/a,n/a,1,20.00%
+main.java.SecuritySystem.SecuritySystem(Mediator),0,0,3,3,33.33%
+main.java.SecuritySystem.receiveMessage(String),0,0,4,4,44.44%
+main.java.SmartHomeMediator.SmartHomeMediator(),0,0,3,3,15.79%
+main.java.SmartHomeMediator.registerAppliance(Appliance),0,0,4,4,21.05%
+"main.java.SmartHomeMediator.sendMessage(Appliance, String)",0,0,8,8,42.11%
+main.java.Thermostat.Thermostat(Mediator),0,0,3,3,33.33%
+main.java.Thermostat.receiveMessage(String),0,0,4,4,44.44%
+
+Class,CLOC,JLOC,LOC
+main.java.Appliance,1,0,11
+main.java.Light,1,0,10
+main.java.Main,7,0,21
+main.java.SecuritySystem,0,0,9
+main.java.SmartHomeMediator,1,0,19
+main.java.Thermostat,0,0,9
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.Mediator,1,0,5,4
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,11,n/a,n/a,n/a,93,n/a,93,n/a,0,n/a,n/a,82,n/a
+main,n/a,11,n/a,n/a,n/a,93,n/a,93,n/a,0,n/a,n/a,82,n/a
+main.java,0,11,0,0,93,93,93,93,0,0,82,82,82,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_ChatGPT01,0,0,0,0,93,0,0,0,0,118,93,0,107,82,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,93,82
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,11,0,0,0,0,93,0,0,0,0,118,93,0,107,82,0
+

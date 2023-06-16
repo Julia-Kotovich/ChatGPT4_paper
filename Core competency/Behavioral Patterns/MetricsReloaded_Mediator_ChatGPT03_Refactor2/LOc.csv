@@ -1,0 +1,51 @@
+Lines of code metrics,Thu, 1 Jun 2023 11:27:44 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.LightBulb.LightBulb(String),0,0,3,3,12.00%
+main.java.LightBulb.deregisterMediator(),0,0,5,5,20.00%
+main.java.LightBulb.receiveMessage(String),0,0,4,4,16.00%
+main.java.LightBulb.registerMediator(SmartHomeMediator),0,0,5,5,20.00%
+main.java.LightBulb.sendMessage(String),0,0,5,5,20.00%
+main.java.Main.main(String[]),5,0,20,15,86.96%
+main.java.SmartHomeAppliance.SmartHomeAppliance(String),0,0,3,3,25.00%
+main.java.SmartHomeAppliance.deregisterMediator(),0,n/a,n/a,1,8.33%
+main.java.SmartHomeAppliance.receiveMessage(String),0,n/a,n/a,1,8.33%
+main.java.SmartHomeAppliance.registerMediator(SmartHomeMediator),0,n/a,n/a,1,8.33%
+main.java.SmartHomeAppliance.sendMessage(String),0,n/a,n/a,1,8.33%
+main.java.SmartHomeHub.SmartHomeHub(),0,0,3,3,13.04%
+main.java.SmartHomeHub.deregisterAppliance(SmartHomeAppliance),0,0,4,4,17.39%
+main.java.SmartHomeHub.registerAppliance(SmartHomeAppliance),0,0,4,4,17.39%
+"main.java.SmartHomeHub.sendMessage(String, SmartHomeAppliance)",0,0,8,8,34.78%
+main.java.SmartHomeMediator.deregisterAppliance(SmartHomeAppliance),0,n/a,n/a,1,16.67%
+main.java.SmartHomeMediator.registerAppliance(SmartHomeAppliance),0,n/a,n/a,1,16.67%
+"main.java.SmartHomeMediator.sendMessage(String, SmartHomeAppliance)",0,n/a,n/a,1,16.67%
+main.java.Thermostat.Thermostat(String),0,0,3,3,12.00%
+main.java.Thermostat.deregisterMediator(),0,0,5,5,20.00%
+main.java.Thermostat.receiveMessage(String),0,0,4,4,16.00%
+main.java.Thermostat.registerMediator(SmartHomeMediator),0,0,5,5,20.00%
+main.java.Thermostat.sendMessage(String),0,0,5,5,20.00%
+
+Class,CLOC,JLOC,LOC
+main.java.LightBulb,1,0,25
+main.java.Main,6,0,23
+main.java.SmartHomeAppliance,1,0,12
+main.java.SmartHomeHub,1,0,23
+main.java.Thermostat,1,0,25
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.SmartHomeMediator,1,0,6,5
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,11,n/a,n/a,n/a,122,n/a,122,n/a,0,n/a,n/a,111,n/a
+main,n/a,11,n/a,n/a,n/a,122,n/a,122,n/a,0,n/a,n/a,111,n/a
+main.java,0,11,0,0,122,122,122,122,0,0,111,111,111,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Mediator_ChatGPT3_Refactor2,0,0,0,0,122,0,0,0,0,147,122,0,136,111,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,122,111
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,11,0,0,0,0,122,0,0,0,0,147,122,0,136,111,0
+

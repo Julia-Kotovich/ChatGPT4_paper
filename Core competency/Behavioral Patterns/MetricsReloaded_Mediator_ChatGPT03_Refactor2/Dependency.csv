@@ -1,0 +1,14 @@
+Dependency metrics,Thu, 1 Jun 2023 11:27:17 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.LightBulb,0,2,2,1,1,1,1
+main.java.Main,0,5,5,0,0,1,0
+main.java.SmartHomeAppliance,1,1,1,5,5,1,1
+main.java.SmartHomeHub,0,2,2,1,1,1,1
+main.java.Thermostat,0,2,2,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.SmartHomeMediator,1,1,1,5,5,1,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+
