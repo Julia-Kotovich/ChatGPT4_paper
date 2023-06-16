@@ -1,0 +1,25 @@
+Complexity metrics,Sat, 27 May 2023 12:56:19 CEST
+Method,CogC,ev(G),iv(G),v(G)
+main.java.Newsletter.Newsletter(),0,1,1,1
+main.java.Newsletter.notifyObservers(),1,1,2,2
+main.java.Newsletter.registerObserver(Observer),0,1,1,1
+main.java.Newsletter.setLatestNewsletter(String),0,1,1,1
+main.java.Newsletter.unregisterObserver(Observer),0,1,1,1
+main.java.NewsletterSubscriptionDemo.main(String[]),0,1,1,1
+main.java.Subscriber.Subscriber(String),0,1,1,1
+main.java.Subscriber.update(String),0,1,1,1
+
+Class,OCavg,OCmax,WMC
+main.java.Newsletter,1.20,2,6
+main.java.NewsletterSubscriptionDemo,1.00,1,1
+main.java.Subscriber,1.00,1,2
+
+Package,v(G)avg,v(G)tot
+main.java,1.12,9
+
+Module,v(G)avg,v(G)tot
+Observer_ChatGPT03,1.12,9
+
+Project,v(G)avg,v(G)tot
+project,1.12,9
+

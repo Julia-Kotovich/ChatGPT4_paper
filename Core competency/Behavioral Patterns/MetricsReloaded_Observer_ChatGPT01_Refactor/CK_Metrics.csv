@@ -1,0 +1,9 @@
+Chidamber-Kemerer metrics,Fri, 26 May 2023 16:35:20 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.EmailSubscriber,2,1,1,0,4,2
+main.java.Newsletter,n/a,n/a,n/a,n/a,3,n/a
+main.java.NewsletterService,3,1,1,0,10,5
+main.java.NewsletterSubscriptionDemo,4,1,1,0,6,1
+main.java.SMSSubscriber,2,1,1,0,4,2
+main.java.Subscriber,n/a,n/a,n/a,n/a,1,n/a
+

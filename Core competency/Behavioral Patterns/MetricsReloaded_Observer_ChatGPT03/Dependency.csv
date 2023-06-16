@@ -1,0 +1,13 @@
+Dependency metrics,Sat, 27 May 2023 12:57:04 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Newsletter,0,2,2,1,1,1,1
+main.java.NewsletterSubscriptionDemo,0,2,4,0,0,1,0
+main.java.Subscriber,0,1,1,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Observer,0,0,0,3,4,0,1
+main.java.Subject,0,1,1,1,2,1,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+
