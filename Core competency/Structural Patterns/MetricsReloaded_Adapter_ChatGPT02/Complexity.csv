@@ -1,0 +1,25 @@
+Complexity metrics,Tue, 30 May 2023 16:29:40 CEST
+Method,CogC,ev(G),iv(G),v(G)
+main.java.InternationalChargerAdapter.InternationalChargerAdapter(USCharger),0,1,1,1
+main.java.InternationalChargerAdapter.charge(),0,1,1,1
+main.java.Main.main(String[]),0,1,1,1
+main.java.Mobile.Mobile(MobileCharger),0,1,1,1
+main.java.Mobile.startCharging(),0,1,1,1
+main.java.USCharger.chargeWithUSPlug(),0,1,1,1
+main.java.USCharger.plugIn(),0,1,1,1
+
+Class,OCavg,OCmax,WMC
+main.java.InternationalChargerAdapter,1.00,1,2
+main.java.Main,1.00,1,1
+main.java.Mobile,1.00,1,2
+main.java.USCharger,1.00,1,2
+
+Package,v(G)avg,v(G)tot
+main.java,1.00,7
+
+Module,v(G)avg,v(G)tot
+Adapter_ChatGPT02,1.00,7
+
+Project,v(G)avg,v(G)tot
+project,1.00,7
+

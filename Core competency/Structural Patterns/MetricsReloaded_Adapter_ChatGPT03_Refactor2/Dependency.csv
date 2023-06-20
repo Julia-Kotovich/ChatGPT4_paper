@@ -1,0 +1,13 @@
+Dependency metrics,Wed, 31 May 2023 09:28:26 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Main,0,4,4,0,0,1,0
+main.java.MobileChargerClient,0,1,1,1,1,1,1
+main.java.UKMobileCharger,0,0,0,2,2,0,1
+main.java.UKMobileChargerAdapter,0,2,2,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Charger,0,0,0,3,3,0,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+

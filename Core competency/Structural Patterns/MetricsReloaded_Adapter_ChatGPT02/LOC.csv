@@ -1,0 +1,35 @@
+Lines of code metrics,Tue, 30 May 2023 16:30:50 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.InternationalChargerAdapter.InternationalChargerAdapter(USCharger),0,0,3,3,25.00%
+main.java.InternationalChargerAdapter.charge(),0,0,5,5,41.67%
+main.java.Main.main(String[]),4,0,10,6,76.92%
+main.java.Mobile.Mobile(MobileCharger),0,0,3,3,30.00%
+main.java.Mobile.startCharging(),0,0,3,3,30.00%
+main.java.MobileCharger.charge(),0,n/a,n/a,1,25.00%
+main.java.USCharger.chargeWithUSPlug(),0,0,3,3,33.33%
+main.java.USCharger.plugIn(),0,0,3,3,33.33%
+
+Class,CLOC,JLOC,LOC
+main.java.InternationalChargerAdapter,1,0,12
+main.java.Main,5,0,13
+main.java.Mobile,1,0,10
+main.java.USCharger,1,0,9
+
+Interface,CLOC,JLOC,LOC,NCLOC
+main.java.MobileCharger,1,0,4,3
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,9,n/a,n/a,n/a,53,n/a,53,n/a,0,n/a,n/a,44,n/a
+main,n/a,9,n/a,n/a,n/a,53,n/a,53,n/a,0,n/a,n/a,44,n/a
+main.java,0,9,0,0,53,53,53,53,0,0,44,44,44,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Adapter_ChatGPT02,0,0,0,0,53,0,0,0,0,78,53,0,69,44,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,53,44
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,9,0,0,0,0,53,0,0,0,0,78,53,0,69,44,0
+

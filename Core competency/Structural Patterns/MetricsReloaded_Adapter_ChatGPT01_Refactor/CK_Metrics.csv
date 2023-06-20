@@ -1,0 +1,8 @@
+Chidamber-Kemerer metrics,Sun, 28 May 2023 07:06:35 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.ChargerAdapter,3,1,1,0,3,2
+main.java.Client,2,1,1,0,3,2
+main.java.CountrySpecificCharger,2,1,1,0,2,1
+main.java.Main,3,1,1,0,4,1
+main.java.MobileCharger,n/a,n/a,n/a,n/a,1,n/a
+
