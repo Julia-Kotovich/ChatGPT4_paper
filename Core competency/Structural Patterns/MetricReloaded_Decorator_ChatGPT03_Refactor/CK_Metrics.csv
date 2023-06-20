@@ -1,0 +1,9 @@
+Chidamber-Kemerer metrics,Fri, 26 May 2023 09:40:33 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.Coffee,5,1,2,2,2,0
+main.java.CoffeeDecorator,3,2,1,2,5,3
+main.java.CoffeeShopDemo,4,1,1,0,6,1
+main.java.Milk,3,3,1,0,8,3
+main.java.SimpleCoffee,2,2,2,0,3,2
+main.java.Vanilla,3,3,1,0,8,3
+

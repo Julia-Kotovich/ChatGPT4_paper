@@ -1,0 +1,14 @@
+Dependency metrics,Wed, 24 May 2023 17:15:46 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.CoffeeDecorator,0,1,1,2,3,1,1
+main.java.CoffeeShop,0,4,5,0,0,1,0
+main.java.Milk,0,2,2,1,1,1,1
+main.java.SimpleCoffee,0,1,1,1,1,1,1
+main.java.Vanilla,0,2,2,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Coffee,0,0,0,5,5,0,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+
