@@ -1,0 +1,5 @@
+Chidamber-Kemerer metrics,Wed, 24 May 2023 09:37:58 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.Logger,1,1,2,0,12,4
+main.java.Main,1,1,1,0,4,1
+

@@ -1,0 +1,21 @@
+Complexity metrics,Wed, 24 May 2023 09:40:28 CEST
+Method,CogC,ev(G),iv(G),v(G)
+main.java.Logger.Logger(),1,1,2,2
+main.java.Logger.close(),1,1,2,2
+main.java.Logger.getInstance(),0,1,1,1
+main.java.Logger.log(String),1,1,2,2
+main.java.Main.main(String[]),0,1,1,1
+
+Class,OCavg,OCmax,WMC
+main.java.Logger,1.00,1,4
+main.java.Main,1.00,1,1
+
+Package,v(G)avg,v(G)tot
+main.java,1.60,8
+
+Module,v(G)avg,v(G)tot
+Singleton_ChatGPT03,1.60,8
+
+Project,v(G)avg,v(G)tot
+project,1.60,8
+

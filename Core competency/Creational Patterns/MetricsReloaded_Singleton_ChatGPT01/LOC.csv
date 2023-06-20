@@ -1,0 +1,28 @@
+Lines of code metrics,Mon, 22 May 2023 14:08:49 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.Logger.Logger(),0,0,7,7,18.42%
+main.java.Logger.close(),0,0,7,7,18.42%
+main.java.Logger.getInstance(),0,0,10,10,26.32%
+main.java.Logger.log(String),0,0,10,10,26.32%
+main.java.Main.main(String[]),0,0,6,6,75.00%
+
+Class,CLOC,JLOC,LOC
+main.java.Logger,0,0,38
+main.java.Main,0,0,8
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,n/a,n/a,n/a,n/a,52,n/a,52,n/a,0,n/a,n/a,52,n/a
+main,n/a,n/a,n/a,n/a,n/a,52,n/a,52,n/a,0,n/a,n/a,52,n/a
+main.java,0,0,0,0,52,52,52,52,0,0,52,52,52,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Singleton_ChatGPT01,0,0,0,0,52,0,0,0,0,79,52,0,77,52,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,52,52
+Text,2,n/a
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,0,0,0,0,0,52,0,0,0,0,79,52,0,77,52,0
+

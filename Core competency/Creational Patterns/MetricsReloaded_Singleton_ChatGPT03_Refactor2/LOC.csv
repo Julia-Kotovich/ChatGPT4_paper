@@ -1,0 +1,32 @@
+Lines of code metrics,Wed, 24 May 2023 13:46:48 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+main.java.FileHandler.FileHandler(),0,0,7,7,25.00%
+main.java.FileHandler.close(),0,0,7,7,25.00%
+main.java.FileHandler.writeLog(String),0,0,10,10,35.71%
+main.java.FileLogger.FileLogger(),0,0,3,3,13.04%
+main.java.FileLogger.close(),0,0,3,3,13.04%
+main.java.FileLogger.getInstance(),0,0,10,10,43.48%
+main.java.FileLogger.log(String),0,0,3,3,13.04%
+main.java.Main.main(String[]),0,0,6,6,75.00%
+
+Class,CLOC,JLOC,LOC
+main.java.FileHandler,0,0,28
+main.java.FileLogger,0,0,23
+main.java.Main,0,0,8
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,n/a,n/a,n/a,n/a,n/a,66,n/a,66,n/a,0,n/a,n/a,66,n/a
+main,n/a,n/a,n/a,n/a,n/a,66,n/a,66,n/a,0,n/a,n/a,66,n/a
+main.java,0,0,0,0,66,66,66,66,0,0,66,66,66,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+Singleton_ChatGPT03_Refactor2,0,0,0,0,66,0,0,0,0,93,66,0,91,66,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,66,66
+Text,2,n/a
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,0,0,0,0,0,66,0,0,0,0,93,66,0,91,66,0
+
