@@ -1,0 +1,12 @@
+Class count metrics,Fri, 19 May 2023 14:16:33 CEST
+Package,C,C(rec),Cp,Cp(rec),Ct,TC(rec)
+,n/a,10,n/a,10,n/a,0
+main,n/a,10,n/a,10,n/a,0
+main.java,10,10,10,10,0,0
+
+Module,C,Cp,Ct
+AbstractFactory_ChatGPT03,10,10,0
+
+Project,C,Cp,Ct
+project,10,10,0
+

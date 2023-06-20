@@ -1,0 +1,18 @@
+Dependency metrics,Thu, 18 May 2023 21:06:54 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Client,0,5,9,0,0,1,0
+main.java.FamilyVehicleFactory,0,5,5,1,1,1,1
+main.java.PickupTruck,0,1,1,1,2,1,1
+main.java.SUV,0,1,1,1,2,1,1
+main.java.Sedan,0,1,1,1,2,1,1
+main.java.SportsCar,0,1,1,1,2,1,1
+main.java.SportsVehicleFactory,0,5,5,1,1,1,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+main.java.Car,0,0,0,6,6,0,1
+main.java.Truck,0,0,0,6,6,0,1
+main.java.VehicleFactory,0,2,2,3,3,1,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+main.java,0,0,0,1
+

@@ -1,0 +1,26 @@
+Complexity metrics,Wed, 17 May 2023 16:51:05 CEST
+Method,CogC,ev(G),iv(G),v(G)
+Car.drive(),0,1,1,1
+CarFactory.createVehicle(),0,1,1,1
+Main.main(String[]),0,1,1,1
+Truck.drive(),0,1,1,1
+TruckFactory.createVehicle(),0,1,1,1
+VehicleFactoryCreator.createVehicleFactory(String),3,3,2,3
+
+Class,OCavg,OCmax,WMC
+Car,1.00,1,1
+CarFactory,1.00,1,1
+Main,1.00,1,1
+Truck,1.00,1,1
+TruckFactory,1.00,1,1
+VehicleFactoryCreator,3.00,3,3
+
+Package,v(G)avg,v(G)tot
+,1.33,8
+
+Module,v(G)avg,v(G)tot
+AbstractFactory_ChatGPT01,1.33,8
+
+Project,v(G)avg,v(G)tot
+project,1.33,8
+

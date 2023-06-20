@@ -1,0 +1,14 @@
+Chidamber-Kemerer metrics,Mon, 22 May 2023 10:56:08 CEST
+Class,CBO,DIT,LCOM,NOC,RFC,WMC
+main.java.Car,n/a,n/a,n/a,n/a,2,n/a
+main.java.Client,5,1,1,0,7,1
+main.java.FamilyVehicleFactory,6,1,2,0,2,2
+main.java.Logger,0,1,1,0,2,1
+main.java.PickupTruck,2,1,1,0,2,2
+main.java.SUV,2,1,1,0,2,2
+main.java.Sedan,2,1,1,0,2,2
+main.java.SportsCar,2,1,1,0,2,2
+main.java.SportsVehicleFactory,6,1,2,0,2,2
+main.java.Truck,n/a,n/a,n/a,n/a,2,n/a
+main.java.VehicleFactory,n/a,n/a,n/a,n/a,2,n/a
+

@@ -1,0 +1,22 @@
+JUnit testing metrics,Thu, 18 May 2023 21:26:50 CEST
+Class,JTA,JTM
+Client,0,0
+FamilyCar,0,0
+FamilyVehicleFactory,0,0
+PickupTruck,0,0
+SUV,0,0
+SportsCar,0,0
+SportsVehicleFactory,0,0
+Vehicle,0,0
+test.VehicleFactoryTest,8,6
+
+Package,JTA,JTC,JTM
+main.java,0,0,0
+test,8,1,6
+
+Module,JTA,JTC,JTM
+AbstractFactory_ChatGPT01_Refactor,8,1,6
+
+Project,JTA,JTC,JTM
+project,8,1,6
+

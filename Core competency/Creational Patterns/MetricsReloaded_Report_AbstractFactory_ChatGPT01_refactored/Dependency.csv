@@ -1,0 +1,19 @@
+Dependency metrics,Thu, 18 May 2023 14:52:50 CEST
+Class,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+Client,0,6,10,0,0,1,0
+FamilyCar,0,1,2,1,2,1,1
+FamilyVehicleFactory,0,5,6,1,1,1,1
+PickupTruck,0,1,2,1,2,1,1
+SUV,0,1,2,1,2,1,1
+SportsCar,0,1,2,1,2,1,1
+SportsVehicleFactory,0,5,6,1,1,1,1
+Vehicle,0,0,0,3,10,0,1
+
+Interface,Cyclic,Dcy,Dcy*,Dpt,Dpt*,PDcy,PDpt
+Car,0,1,1,6,6,1,1
+Truck,0,1,1,6,6,1,1
+VehicleFactory,0,2,3,3,3,1,1
+
+Package,Cyclic,PDcy,PDpt,PDpt*
+,0,0,0,1
+

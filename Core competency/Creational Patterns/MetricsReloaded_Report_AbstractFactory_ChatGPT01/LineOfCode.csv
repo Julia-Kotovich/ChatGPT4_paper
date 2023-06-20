@@ -1,0 +1,36 @@
+Lines of code metrics,Wed, 17 May 2023 16:54:06 CEST
+Method,CLOC,JLOC,LOC,NCLOC,RLOC
+Car.drive(),0,0,4,4,57.14%
+CarFactory.createVehicle(),0,0,4,4,57.14%
+Main.main(String[]),3,0,11,8,78.57%
+Truck.drive(),0,0,4,4,57.14%
+TruckFactory.createVehicle(),0,0,4,4,57.14%
+Vehicle.drive(),0,n/a,n/a,1,25.00%
+VehicleAbstractFactory.createVehicle(),0,n/a,n/a,1,25.00%
+VehicleFactoryCreator.createVehicleFactory(String),0,0,9,9,75.00%
+
+Class,CLOC,JLOC,LOC
+Car,1,0,7
+CarFactory,1,0,7
+Main,4,0,14
+Truck,1,0,7
+TruckFactory,1,0,7
+VehicleFactoryCreator,1,0,12
+
+Interface,CLOC,JLOC,LOC,NCLOC
+Vehicle,1,0,4,3
+VehicleAbstractFactory,1,0,4,3
+
+Package,CLOC,CLOC(rec),JLOC,JLOC(rec),LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec),NCLOC,NCLOCp,NCLOCp(rec),NCLOCt
+,0,11,0,0,62,62,62,62,0,0,51,51,51,0
+
+Module,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+AbstractFactory_ChatGPT01,0,0,0,0,62,0,0,0,0,87,62,0,76,51,0
+
+FileType,LOC,NCLOC
+.gitignore (GitIgnore),25,25
+Java,62,51
+
+Project,CLOC,JLOC,L(CSS),L(Groovy),L(HTML),L(J),L(JS),L(JSP),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+project,11,0,0,0,0,62,0,0,0,0,87,62,0,76,51,0
+

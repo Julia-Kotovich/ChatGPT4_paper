@@ -1,0 +1,11 @@
+Number of files metrics,Fri, 19 May 2023 16:07:57 CEST
+Module,CSS,FILES,Groovy,HTML,J,JS,JSP,KT,XML
+AbstractFactory_ChatGPT03_Refactor,0,12,0,0,11,0,0,0,0
+
+FileType,FILES
+.gitignore (GitIgnore),1
+Java,11
+
+Project,CSS,FILES,Groovy,HTML,J,JS,JSP,KT,MOD,XML
+project,0,12,0,0,11,0,0,0,1,0
+
