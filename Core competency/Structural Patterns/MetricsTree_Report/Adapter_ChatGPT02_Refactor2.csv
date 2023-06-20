@@ -1,0 +1,9 @@
+Class Name;ATFD;CBO;DAC;DIT;CHD;CHEF;CHER;CHL;CHVC;CHVL;LCOM;CMI;MPC;NCSS;NOAC;NOAM;NOA;SIZE2;NOC;NOM;NOO;NOOM;NOPA;RFC;TCC;WOC;WMC
+main.java.Charger;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;0.0;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+main.java.InternationalChargerAdapter;0;3;1;1;8.0;345.4805;0.0164;13;10;43.1851;1;68.7692;2;3;0;1;1;16;0;2;15;0;0;4;0.0;1.0;2
+main.java.Main;0;5;0;1;3.0;114.1173;0.0078;12;9;38.0391;1;67.1244;1;4;0;1;0;13;0;1;13;0;0;4;0.0;1.0;1
+main.java.Mobile;0;2;1;1;4.5;135.0;0.0088;10;8;30.0;1;72.5894;1;2;0;1;1;15;0;2;14;0;0;3;0.0;1.0;2
+main.java.MobileCharger;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;0.0;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+main.java.UKCharger;1;1;0;1;3.3333;120.0;0.0081;12;8;36.0;1;69.3952;2;2;0;2;0;16;0;2;16;0;0;3;1.0;1.0;2
+main.java.USCharger;1;2;0;1;3.3333;120.0;0.0081;12;8;36.0;1;69.3952;2;2;0;2;0;16;0;2;16;0;0;3;1.0;1.0;2
+test.MobilePhoneTest;0;0;0;1;0.0;0.0;0.0;1;1;0.0;0;0.0;0;0;0;0;0;12;0;0;12;0;0;0;0.0;0.0;0
