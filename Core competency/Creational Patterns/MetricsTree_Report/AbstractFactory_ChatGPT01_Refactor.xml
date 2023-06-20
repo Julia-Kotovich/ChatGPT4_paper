@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project>
+    <Metrics>
+        <Metric description="Attribute Hiding Factor" name="AHF" value="NaN"/>
+        <Metric description="Attribute Inheritance Factor" name="AIF" value="NaN"/>
+        <Metric description="Coupling Factor" name="CF" value="0.2909"/>
+        <Metric description="Effectiveness" name="Effectiveness" value="NaN"/>
+        <Metric description="Extendibility" name="Extendibility" value="NaN"/>
+        <Metric description="Flexibility" name="Flexibility" value="NaN"/>
+        <Metric description="Functionality" name="Functionality" value="NaN"/>
+        <Metric description="Halstead Difficulty" name="PRHD" value="0.0"/>
+        <Metric description="Halstead Effort" name="PRCHEF" value="0.0"/>
+        <Metric description="Halstead Errors" name="PRCHER" value="0.0"/>
+        <Metric description="Halstead Length" name="PRCHL" value="8"/>
+        <Metric description="Halstead Vocabulary" name="PRCHVC" value="5"/>
+        <Metric description="Halstead Volume" name="PRHVL" value="18.5754"/>
+        <Metric description="Lines Of Code" name="PLOC" value="52"/>
+        <Metric description="Maintainability Index" name="PRMI" value="53.301"/>
+        <Metric description="Method Hiding Factor" name="MHF" value="0.0"/>
+        <Metric description="Method Inheritance Factor" name="MIF" value="0.1905"/>
+        <Metric description="Non-Commenting Source Statements" name="PNCSS" value="26"/>
+        <Metric description="Number Of Abstract Classes" name="PNOAC" value="1"/>
+        <Metric description="Number Of Concrete Classes" name="PNOCC" value="7"/>
+        <Metric description="Number Of Interfaces" name="PNOI" value="3"/>
+        <Metric description="Number Of Static Classes" name="PNOSC" value="0"/>
+        <Metric description="Polymorphism Factor" name="PF" value="1.0"/>
+        <Metric description="Reusability" name="Reusability" value="NaN"/>
+        <Metric description="Understandability" name="Understandability" value="NaN"/>
+    </Metrics>
+    <Packages>
+        <Package name="">
+            <Metrics/>
+            <Class name="Truck">
+                <Metrics>
+                    <Metric description="Access To Foreign Data" name="ATFD" value="N/A"/>
+                    <Metric description="Coupling Between Objects" name="CBO" value="N/A"/>
+                    <Metric description="Data Abstraction Coupling" name="DAC" value="N/A"/>
+                    <Metric description="Depth Of Inheritance Tree" name="DIT" value="N/A"/>
+                    <Metric description="Halstead Difficulty" name="CHD" value="N/A"/>
+                    <Metric description="Halstead Effort" name="CHEF" value="N/A"/>
+                    <Metric description="Halstead Errors" name="CHER" value="N/A"/>
+                    <Metric description="Halstead Length" name="CHL" value="N/A"/>
+                    <Metric description="Halstead Vocabulary" name="CHVC" value="N/A"/>
+                    <Metric description="Halstead Volume" name="CHVL" value="N/A"/>
+                    <Metric description="Lack Of Cohesion Of Methods" name="LCOM" value="N/A"/>
+                    <Metric description="Maintainability Index" name="CMI" value="0.0"/>
+                    <Metric description="Message Passing Coupling" name="MPC" value="N/A"/>
+                    <Metric description="Non-Commenting Source Statements" name="NCSS" value="N/A"/>
+                    <Metric description="Number Of Accessor Methods" name="NOAC" value="N/A"/>
+                    <Metric description="Number Of Added Methods" name="NOAM" value="N/A"/>
+                    <Metric description="Number Of Attributes" name="NOA" value="N/A"/>
+                    <Metric description="Number Of Attributes And Methods" name="SIZE2" value="N/A"/>
+                    <Metric description="Number Of Children" name="NOC" value="N/A"/>
+                    <Metric description="Number Of Methods" name="NOM" value="N/A"/>
+                    <Metric description="Number Of Operations" name="NOO" value="N/A"/>
+                    <Metric description="Number Of Overridden Methods" name="NOOM" value="N/A"/>
+                    <Metric description="Number Of Public Attributes" name="NOPA" value="N/A"/>
+                    <Metric description="Response For A Class" name="RFC" value="N/A"/>
+                    <Metric description="Tight Class Cohesion" name="TCC" value="N/A"/>
+                    <Metric description="Weight Of A Class" name="WOC" value="N/A"/>
+                    <Metric description="Weighted Methods Per Class" name="WMC" value="N/A"/>
+                </Metrics>
+            </Class>
+        </Package>
+    </Packages>
+</Project>

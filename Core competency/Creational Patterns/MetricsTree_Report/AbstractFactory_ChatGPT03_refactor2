@@ -1,0 +1,12 @@
+Class Name;ATFD;CBO;DAC;DIT;CHD;CHEF;CHER;CHL;CHVC;CHVL;LCOM;CMI;MPC;NCSS;NOAC;NOAM;NOA;SIZE2;NOC;NOM;NOO;NOOM;NOPA;RFC;TCC;WOC;WMC
+main.java.Car;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;0.0;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+main.java.Client;0;5;0;1;11.0;1393.8248;0.0416;31;17;126.7113;1;59.0265;12;14;0;1;0;13;0;1;13;0;0;7;0.0;1.0;1
+main.java.FamilyVehicleFactory;0;6;0;1;0.0;0.0;0.0;8;5;18.5754;2;74.1428;0;2;0;2;0;16;0;2;16;0;0;2;0.0;1.0;2
+main.java.Logger;1;0;0;1;2.5;49.1287;0.0045;7;7;19.6515;1;80.6382;1;1;0;1;0;13;0;1;13;0;0;2;0.0;1.0;1
+main.java.PickupTruck;0;2;1;1;4.9;281.0611;0.0143;16;12;57.3594;1;70.6375;2;2;0;2;1;17;0;2;16;0;0;2;1.0;1.0;2
+main.java.SUV;0;2;1;1;4.9;281.0611;0.0143;16;12;57.3594;1;70.6375;2;2;0;2;1;17;0;2;16;0;0;2;1.0;1.0;2
+main.java.Sedan;0;2;1;1;4.9;281.0611;0.0143;16;12;57.3594;1;70.6375;2;2;0;2;1;17;0;2;16;0;0;2;1.0;1.0;2
+main.java.SportsCar;0;2;1;1;4.9;281.0611;0.0143;16;12;57.3594;1;70.6375;2;2;0;2;1;17;0;2;16;0;0;2;1.0;1.0;2
+main.java.SportsVehicleFactory;0;6;0;1;0.0;0.0;0.0;8;5;18.5754;2;74.1428;0;2;0;2;0;16;0;2;16;0;0;2;0.0;1.0;2
+main.java.Truck;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;0.0;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+main.java.VehicleFactory;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;0.0;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A

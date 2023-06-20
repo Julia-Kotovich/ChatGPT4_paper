@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project>
+    <Metrics>
+        <Metric description="Attribute Hiding Factor" name="AHF" value="NaN"/>
+        <Metric description="Attribute Inheritance Factor" name="AIF" value="NaN"/>
+        <Metric description="Coupling Factor" name="CF" value="0.3929"/>
+        <Metric description="Effectiveness" name="Effectiveness" value="NaN"/>
+        <Metric description="Extendibility" name="Extendibility" value="NaN"/>
+        <Metric description="Flexibility" name="Flexibility" value="NaN"/>
+        <Metric description="Functionality" name="Functionality" value="NaN"/>
+        <Metric description="Halstead Difficulty" name="PRHD" value="3.5"/>
+        <Metric description="Halstead Effort" name="PRCHEF" value="220.1762"/>
+        <Metric description="Halstead Errors" name="PRCHER" value="0.0122"/>
+        <Metric description="Halstead Length" name="PRCHL" value="17"/>
+        <Metric description="Halstead Vocabulary" name="PRCHVC" value="13"/>
+        <Metric description="Halstead Volume" name="PRHVL" value="62.9075"/>
+        <Metric description="Lines Of Code" name="PLOC" value="36"/>
+        <Metric description="Maintainability Index" name="PRMI" value="53.1466"/>
+        <Metric description="Method Hiding Factor" name="MHF" value="0.0"/>
+        <Metric description="Method Inheritance Factor" name="MIF" value="0.0"/>
+        <Metric description="Non-Commenting Source Statements" name="PNCSS" value="18"/>
+        <Metric description="Number Of Abstract Classes" name="PNOAC" value="0"/>
+        <Metric description="Number Of Concrete Classes" name="PNOCC" value="6"/>
+        <Metric description="Number Of Interfaces" name="PNOI" value="2"/>
+        <Metric description="Number Of Static Classes" name="PNOSC" value="0"/>
+        <Metric description="Polymorphism Factor" name="PF" value="1.0"/>
+        <Metric description="Reusability" name="Reusability" value="NaN"/>
+        <Metric description="Understandability" name="Understandability" value="NaN"/>
+    </Metrics>
+    <Packages>
+        <Package name="">
+            <Metrics/>
+            <Class name="Truck">
+                <Metrics>
+                    <Metric description="Access To Foreign Data" name="ATFD" value="1"/>
+                    <Metric description="Coupling Between Objects" name="CBO" value="2"/>
+                    <Metric description="Data Abstraction Coupling" name="DAC" value="0"/>
+                    <Metric description="Depth Of Inheritance Tree" name="DIT" value="1"/>
+                    <Metric description="Halstead Difficulty" name="CHD" value="2.5"/>
+                    <Metric description="Halstead Effort" name="CHEF" value="56.1471"/>
+                    <Metric description="Halstead Errors" name="CHER" value="0.0049"/>
+                    <Metric description="Halstead Length" name="CHL" value="8"/>
+                    <Metric description="Halstead Vocabulary" name="CHVC" value="7"/>
+                    <Metric description="Halstead Volume" name="CHVL" value="22.4588"/>
+                    <Metric description="Lack Of Cohesion Of Methods" name="LCOM" value="1"/>
+                    <Metric description="Maintainability Index" name="CMI" value="77.467"/>
+                    <Metric description="Message Passing Coupling" name="MPC" value="1"/>
+                    <Metric description="Non-Commenting Source Statements" name="NCSS" value="1"/>
+                    <Metric description="Number Of Accessor Methods" name="NOAC" value="0"/>
+                    <Metric description="Number Of Added Methods" name="NOAM" value="1"/>
+                    <Metric description="Number Of Attributes" name="NOA" value="0"/>
+                    <Metric description="Number Of Attributes And Methods" name="SIZE2" value="14"/>
+                    <Metric description="Number Of Children" name="NOC" value="0"/>
+                    <Metric description="Number Of Methods" name="NOM" value="1"/>
+                    <Metric description="Number Of Operations" name="NOO" value="14"/>
+                    <Metric description="Number Of Overridden Methods" name="NOOM" value="0"/>
+                    <Metric description="Number Of Public Attributes" name="NOPA" value="0"/>
+                    <Metric description="Response For A Class" name="RFC" value="2"/>
+                    <Metric description="Tight Class Cohesion" name="TCC" value="0.0"/>
+                    <Metric description="Weight Of A Class" name="WOC" value="1.0"/>
+                    <Metric description="Weighted Methods Per Class" name="WMC" value="1"/>
+                </Metrics>
+                <Method name="drive()">
+                    <Metrics>
+                        <Metric description="Condition Nesting Depth" name="CND" value="0"/>
+                        <Metric description="Coupling Dispersion" name="CDISP" value="1.0"/>
+                        <Metric description="Coupling Intensity" name="CINT" value="1"/>
+                        <Metric description="Foreign Data Providers" name="FDP" value="1"/>
+                        <Metric description="Halstead Difficulty" name="HD" value="1.5"/>
+                        <Metric description="Halstead Effort" name="HEF" value="17.4145"/>
+                        <Metric description="Halstead Errors" name="HER" value="0.0022"/>
+                        <Metric description="Halstead Length" name="HL" value="5"/>
+                        <Metric description="Halstead Vocabulary" name="HVC" value="5"/>
+                        <Metric description="Halstead Volume" name="HVL" value="11.6096"/>
+                        <Metric description="Lines Of Code" name="LOC" value="4"/>
+                        <Metric description="Locality Of Attribute Accesses" name="LAA" value="0.0"/>
+                        <Metric description="Loop Nesting Depth" name="LND" value="0"/>
+                        <Metric description="Maintainability Index" name="MMI" value="79.5748"/>
+                        <Metric description="Maximum Nesting Depth" name="MND" value="0"/>
+                        <Metric description="McCabe Cyclomatic Complexity" name="CC" value="1"/>
+                        <Metric description="Number Of Accessed Variables" name="NOAV" value="1"/>
+                        <Metric description="Number Of Loops" name="NOL" value="0"/>
+                        <Metric description="Number Of Parameters" name="NOPM" value="0"/>
+                    </Metrics>
+                </Method>
+            </Class>
+        </Package>
+    </Packages>
+</Project>
